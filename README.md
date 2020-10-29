@@ -1,2 +1,2 @@
-# ASN-Generator-And-Lookup
-ASN Generator and ASN Lookup
+In This Repository You Will Find "ASNGenerator.py" and "ASNLookup.py"
+These are used for IP Ranges
